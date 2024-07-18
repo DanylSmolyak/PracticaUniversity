@@ -1,0 +1,14 @@
+C:\Users\smola\RiderProjects\PracticaProg\N3\bin\Debug\net7.0\N3.exe
+C:\Users\smola\RiderProjects\PracticaProg\N3\bin\Debug\net7.0\N3.deps.json
+C:\Users\smola\RiderProjects\PracticaProg\N3\bin\Debug\net7.0\N3.runtimeconfig.json
+C:\Users\smola\RiderProjects\PracticaProg\N3\bin\Debug\net7.0\N3.dll
+C:\Users\smola\RiderProjects\PracticaProg\N3\bin\Debug\net7.0\N3.pdb
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\N3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\N3.AssemblyInfoInputs.cache
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\N3.AssemblyInfo.cs
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\N3.csproj.CoreCompileInputs.cache
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\N3.dll
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\refint\N3.dll
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\N3.pdb
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\N3.genruntimeconfig.cache
+C:\Users\smola\RiderProjects\PracticaProg\N3\obj\Debug\net7.0\ref\N3.dll

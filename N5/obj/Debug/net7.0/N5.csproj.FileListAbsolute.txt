@@ -1,0 +1,14 @@
+C:\Users\smola\RiderProjects\PracticaProg\N5\bin\Debug\net7.0\N5.exe
+C:\Users\smola\RiderProjects\PracticaProg\N5\bin\Debug\net7.0\N5.deps.json
+C:\Users\smola\RiderProjects\PracticaProg\N5\bin\Debug\net7.0\N5.runtimeconfig.json
+C:\Users\smola\RiderProjects\PracticaProg\N5\bin\Debug\net7.0\N5.dll
+C:\Users\smola\RiderProjects\PracticaProg\N5\bin\Debug\net7.0\N5.pdb
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\N5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\N5.AssemblyInfoInputs.cache
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\N5.AssemblyInfo.cs
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\N5.csproj.CoreCompileInputs.cache
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\N5.dll
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\refint\N5.dll
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\N5.pdb
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\N5.genruntimeconfig.cache
+C:\Users\smola\RiderProjects\PracticaProg\N5\obj\Debug\net7.0\ref\N5.dll

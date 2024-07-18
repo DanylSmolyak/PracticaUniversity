@@ -1,0 +1,14 @@
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\bin\Debug\net7.0\PracticaProg.exe
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\bin\Debug\net7.0\PracticaProg.deps.json
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\bin\Debug\net7.0\PracticaProg.runtimeconfig.json
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\bin\Debug\net7.0\PracticaProg.dll
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\bin\Debug\net7.0\PracticaProg.pdb
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\PracticaProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\PracticaProg.AssemblyInfoInputs.cache
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\PracticaProg.AssemblyInfo.cs
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\PracticaProg.csproj.CoreCompileInputs.cache
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\PracticaProg.dll
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\refint\PracticaProg.dll
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\PracticaProg.pdb
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\PracticaProg.genruntimeconfig.cache
+C:\Users\smola\RiderProjects\PracticaProg\PracticaProg\obj\Debug\net7.0\ref\PracticaProg.dll
